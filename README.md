@@ -65,7 +65,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone <your-repo-link>
-cd Nike
+cd Nike-Website-NextJS
 ```
 
 **Installation**
