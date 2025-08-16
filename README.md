@@ -1,5 +1,5 @@
-# [Nike UI UX](https://sanskargupta.dev/) &middot; [![Author Sanskar Gupta](https://img.shields.io/badge/Author-Sanskar-%3C%3E)](https://www.linkedin.com/in/sanskar-gupta-12476423b/)
-[![GitHub](https://img.shields.io/badge/GitHub-%3C%3E)](https://github.com/Sanskargupta0/Nike.git)
+# [Nike UI UX](https://personalportfolio-online.netlify.app/) &middot; [![Author Deepanshu Sharma](https://img.shields.io/badge/Author-Deepanshu-%3C%3E)](https://www.linkedin.com/in/deepanshu-sharma12/)
+[![GitHub](https://img.shields.io/badge/GitHub-%3C%3E)](https://github.com/deepanshu1420/Nike-Website-NextJS.git)
 [![Next.js](https://img.shields.io/badge/Next.js-%3C%3E)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%3C%3E)](https://tailwindcss.com/)
 ## ⚙️ Tech Stack
@@ -41,7 +41,7 @@ and many more, including code architecture and reusability
 
 ## Demo
 
-Check out the live demo of the project [here](https://nike-sanskargupta0s-projects.vercel.app/).
+Check out the live demo of the project [here](nike-nextjs.netlify.app).
 
 ## Screenshots
 
@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Sanskargupta0/Nike.git
+git clone <your-repo-link>
 cd Nike
 ```
 
@@ -82,7 +82,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
 
