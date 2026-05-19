@@ -54,7 +54,7 @@ const Footer = () => {
       </div>
 
       <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center'>
-        <div className='flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer'>
+        <div className='flex flex-1 flex-col gap-2 font-montserrat'>
           <img
             src={copyrightSign}
             alt='copyright sign'
@@ -63,6 +63,17 @@ const Footer = () => {
             className='rounded-full m-0'
           />
           <p>Copyright. All rights reserved.</p>
+          <p className='font-montserrat text-sm'>
+            Made with ❤️ by{" "}
+            <a
+            href="https://github.com/deepanshu1420"
+            target="_blank"
+            rel="noopener noreferrer"
+            className='hover:text-white transition-colors'
+            >
+              Deepanshu Sharma
+            </a>
+            </p>
         </div>
         <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
       </div>
