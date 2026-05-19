@@ -82,7 +82,7 @@ cd Nike-Website-NextJS
 npm install
 ```
 
-**3️⃣ Run the development server**
+**3️⃣ Start the development server**
 
 ```bash
 npm run dev
