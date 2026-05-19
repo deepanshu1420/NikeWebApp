@@ -46,7 +46,7 @@ and many more, including code architecture and reusability!
 - 🟨 Programming Language: JavaScript (ES6+)  
 - 🌐 Markup Language: HTML5  
 - 📱 Responsive Design: Mobile-First Design  
-- 🚀 Deployment: Netlify  
+- 🚀 Deployment: Vercel  
 - 🛠️ Version Control: Git & GitHub  
 
 ## Screenshots / Demo
