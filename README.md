@@ -55,9 +55,7 @@ and many more, including code architecture and reusability!
 
 ![Landing](/public//screenshot.png)
 
-## 🤸 Quick Start
-
-### 📋 Prerequisites
+## 📋 Quick Start / Prerequisites
 
 Make sure you have the following installed on your machine:
 
