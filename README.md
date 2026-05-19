@@ -69,20 +69,20 @@ Make sure you have the following installed on your machine:
 
 ## ⚙️ Setup & Installation
 
-**Clone the Repository**
+**1️⃣ Clone the Repository**
 
 ```bash
 git clone https://github.com/deepanshu1420/Nike-Website-NextJS.git
 cd Nike-Website-NextJS
 ```
 
-**Install the project dependencies using npm**
+**2️⃣ Install the project dependencies using npm**
 
 ```bash
 npm install
 ```
 
-**Run the development server**
+**3️⃣ Run the development server**
 
 ```bash
 npm run dev
