@@ -5,7 +5,7 @@
 
 Welcome to Nike Website NextJS 👟 - a modern and responsive Nike-inspired web application built with Next.js and Tailwind CSS. The project focuses on creating a fast, visually appealing and mobile-friendly user experience while showcasing modern frontend development practices, reusable components and clean UI design.
 
-Check out the live demo of the project [here](https://nike-nextjs.netlify.app).
+Check out the live demo of the project [here](https://nikee-nextjs.vercel.app/).
 
 ## 🔋 Features / Highlights 
 
@@ -57,8 +57,6 @@ and many more, including code architecture and reusability!
 
 ## 🤸 Quick Start
 
-Follow these steps to set up the project locally on your machine:
-
 ### 📋 Prerequisites
 
 Make sure you have the following installed on your machine:
@@ -68,6 +66,8 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
 ## ⚙️ Setup & Installation
+
+Follow these steps to set up the project locally on your machine:
 
 **1️⃣ Clone the Repository**
 
