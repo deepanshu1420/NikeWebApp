@@ -65,7 +65,7 @@ const Footer = () => {
           />
           <p>Copyright. All rights reserved.</p>
           </div>
-          <p className='font-montserrat text-sm'>
+          <p className='font-montserrat text-sm mt-2'>
             Made with ❤️ by{" "}
             <a
             href="https://github.com/deepanshu1420"
