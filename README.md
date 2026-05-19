@@ -2,12 +2,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-green?logo=github&logoColor=white)](https://github.com/deepanshu1420/Nike-Website-NextJS)
 [![Next.js](https://img.shields.io/badge/Next.js-%3C%3E)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%3C%3E)](https://tailwindcss.com/)
-## ⚙️ Tech Stack
 
-- Next.js
-- Tailwind CSS
+Welcome to Nike Website NextJS 👟 - a modern and responsive Nike-inspired web application built with Next.js and Tailwind CSS. The project focuses on creating a fast, visually appealing and mobile-friendly user experience while showcasing modern frontend development practices, reusable components and clean UI design.
 
-## 🔋 Features
+Check out the live demo of the project [here](https://nike-nextjs.netlify.app).
+
+## 🔋 Features / Highlights 
 
 👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
 
@@ -19,7 +19,7 @@
 
 👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
-while building a high-performance Nike website for fast load times:
+### while building a high-performance Nike website for fast load times:
 
 👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
 
@@ -37,23 +37,29 @@ while building a high-performance Nike website for fast load times:
 
 👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability!
 
-## Demo
+## ⚙️ Tech Stack Used
 
-Check out the live demo of the project [here](https://nike-nextjs.netlify.app).
+- ⚛️ Full-Stack Framework: Next.js  
+- 🎨 Styling Framework: Tailwind CSS  
+- 🟨 Programming Language: JavaScript (ES6+)  
+- 🌐 Markup Language: HTML5  
+- 📱 Responsive Design: Mobile-First Design  
+- 🚀 Deployment: Netlify  
+- 🛠️ Version Control: Git & GitHub  
 
-## Screenshots
+## Screenshots / Demo
 
 #### Landing
 
 ![Landing](/public//screenshot.png)
 
-##🤸 Quick Start
+## 🤸 Quick Start
 
-Follow these steps to set up the project locally on your machine.
+Follow these steps to set up the project locally on your machine:
 
-**Prerequisites**
+### 📋 Prerequisites
 
 Make sure you have the following installed on your machine:
 
@@ -61,10 +67,12 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
+## ⚙️ Setup & Installation
+
 **Cloning the Repository**
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/deepanshu1420/Nike-Website-NextJS.git
 cd Nike-Website-NextJS
 ```
 
