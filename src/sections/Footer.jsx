@@ -54,7 +54,8 @@ const Footer = () => {
       </div>
 
       <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center'>
-        <div className='flex flex-1 flex-col gap-2 font-montserrat'>
+        <div>
+        <div className='flex flex-1 justify-start items-center gap-2 font-montserrat'>
           <img
             src={copyrightSign}
             alt='copyright sign'
@@ -63,6 +64,7 @@ const Footer = () => {
             className='rounded-full m-0'
           />
           <p>Copyright. All rights reserved.</p>
+          </div>
           <p className='font-montserrat text-sm'>
             Made with ❤️ by{" "}
             <a
@@ -74,7 +76,7 @@ const Footer = () => {
               Deepanshu Sharma
             </a>
             </p>
-        </div>
+            </div>
         <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
       </div>
     </footer>
