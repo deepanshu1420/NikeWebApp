@@ -27,7 +27,24 @@ const Nav = () => {
             <li key={item.label}>
               <a
                 href={item.href}
-                className='font-montserrat leading-normal text-lg text-slate-gray'
+                className="
+                relative inline-block
+                font-montserrat leading-normal text-lg text-slate-gray
+                transition-colors duration-300
+                hover:text-coral-red
+                after:content-['']
+                after:absolute
+                after:left-0
+                after:-bottom-1
+                after:h-[2px]
+                after:w-full
+                after:bg-coral-red
+                after:origin-left
+                after:scale-x-0
+                after:transition-transform
+                after:duration-300
+                hover:after:scale-x-100
+                "
               >
                 {item.label}
               </a>
@@ -35,9 +52,49 @@ const Nav = () => {
           ))}
         </ul>
         <div className='flex gap-2 text-lg leading-normal font-medium font-montserrat max-lg:hidden wide:mr-24'>
-          <a href='/'>Sign in</a>
+          <a
+          href="/"
+          className="
+          relative inline-block transition-colors duration-300
+          hover:text-coral-red
+          after:content-['']
+          after:absolute
+          after:left-0
+          after:-bottom-1
+          after:h-[2px]
+          after:w-full
+          after:bg-coral-red
+          after:origin-left
+          after:scale-x-0
+          after:transition-transform
+          after:duration-300
+          hover:after:scale-x-100
+          "
+          >
+            Sign in
+          </a>
           <span>/</span>
-          <a href='/'>Explore now</a>
+          <a
+          href="/"
+          className="
+          relative inline-block transition-colors duration-300
+          hover:text-coral-red
+          after:content-['']
+          after:absolute
+          after:left-0
+          after:-bottom-1
+          after:h-[2px]
+          after:w-full
+          after:bg-coral-red
+          after:origin-left
+          after:scale-x-0
+          after:transition-transform
+          after:duration-300
+          hover:after:scale-x-100
+          "
+          >
+          Explore now
+        </a>
         </div>
         <div className='hidden max-lg:block' onClick={handleMenuToggle}>
           <img src={hamburger} alt='hamburger icon' width={25} height={25} />
@@ -55,7 +112,24 @@ const Nav = () => {
                 <li key={item.label}>
                   <a
                     href={item.href}
-                    className='block font-montserrat leading-normal text-lg text-slate-gray'
+                    className="
+                    relative inline-block
+                    font-montserrat leading-normal text-lg text-slate-gray
+                    transition-colors duration-300
+                    hover:text-coral-red
+                    after:content-['']
+                    after:absolute
+                    after:left-0
+                    after:-bottom-1
+                    after:h-[2px]
+                    after:w-full
+                    after:bg-coral-red
+                    after:origin-left
+                    after:scale-x-0
+                    after:transition-transform
+                    after:duration-300
+                    hover:after:scale-x-100
+                    "
                     onClick={handleMenuToggle} // Close the menu on click
                   >
                     {item.label}
