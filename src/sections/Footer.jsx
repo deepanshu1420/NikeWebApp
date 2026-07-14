@@ -23,10 +23,16 @@ const Footer = () => {
           <div className='flex items-center gap-5 mt-8'>
             {socialMedia.map((icon) => (
               <div
-                className='flex justify-center items-center w-12 h-12 bg-white rounded-full'
-                key={icon.alt}
+              className='flex justify-center items-center w-12 h-12 bg-white rounded-full cursor-pointer hover:bg-coral-red transition-colors duration-300'
+              key={icon.alt}
               >
-                <img src={icon.src} alt={icon.alt} width={24} height={24} />
+                <img
+                src={icon.src}
+                alt={icon.alt}
+                width={24}
+                height={24}
+                className='transition-all duration-300 hover:brightness-0 hover:invert'
+              />
               </div>
             ))}
           </div>
@@ -71,7 +77,7 @@ const Footer = () => {
             href="https://github.com/deepanshu1420"
             target="_blank"
             rel="noopener noreferrer"
-            className='hover:text-white transition-colors'
+            className='hover:text-coral-red transition-colors duration-300'
             >
               Deepanshu Sharma
             </a>
