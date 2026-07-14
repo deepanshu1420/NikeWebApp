@@ -46,13 +46,21 @@ const Footer = () => {
               </h4>
               <ul>
                 {section.links.map((link) => (
-                  <li
-                    className='mt-3 font-montserrat text-base leading-normal text-white-400 hover:text-coral-red transition-colors duration-300'
-                    key={link.name}
-                  >
-                    <a href={link.link}>{link.name}</a>
-                  </li>
-                ))}
+                  <li key={link.name} className="mt-3">
+                    {section.title === "Get in touch" ? (
+                      <a
+                      href={link.link}
+                      className="font-montserrat text-base leading-normal text-white-400 hover:text-coral-red transition-colors duration-300"
+                      >
+                        {link.name}
+                        </a>
+                        ) : (
+                        <span className="font-montserrat text-base leading-normal text-white-400 hover:text-coral-red transition-colors duration-300 cursor-pointer">
+                          {link.name}
+                          </span>
+                        )}
+                        </li>
+                      ))}
               </ul>
             </div>
           ))}
@@ -83,7 +91,9 @@ const Footer = () => {
             </a>
             </p>
             </div>
-        <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
+            <p className='font-montserrat hover:text-coral-red transition-colors duration-300'>
+              Terms & Conditions
+            </p>
       </div>
     </footer>
   );
