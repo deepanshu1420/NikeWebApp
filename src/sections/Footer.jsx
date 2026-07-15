@@ -67,8 +67,8 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center'>
-        <div>
+      <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center max-sm:gap-4'>
+        <div className='max-sm:flex max-sm:flex-col max-sm:items-center max-sm:gap-4'>
         <div className='flex flex-1 justify-start items-center gap-2 font-montserrat'>
           <img
             src={copyrightSign}
@@ -79,7 +79,7 @@ const Footer = () => {
           />
           <p>Copyright. All rights reserved.</p>
           </div>
-          <p className='font-montserrat text-sm mt-2'>
+          <p className='font-montserrat text-sm mt-2 max-sm:mt-0'>
             Made with ❤️ by{" "}
             <a
             href="https://github.com/deepanshu1420"
@@ -91,7 +91,7 @@ const Footer = () => {
             </a>
             </p>
             </div>
-            <p className='font-montserrat hover:text-coral-red transition-colors duration-300'>
+            <p className='font-montserrat hover:text-coral-red transition-colors duration-300 max-sm:text-center'>
               Terms & Conditions
             </p>
       </div>
