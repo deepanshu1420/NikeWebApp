@@ -49,10 +49,12 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 ## 📸 Screenshots / Demo
 
+> Take a look at some screenshots showcasing the website.
+
 ### 🏠 Landing Page
 
 ![Landing Page](./screenshots/LandingPage.png)
-*The modern hero section featuring the latest Nike collection with smooth interactive shoe preview transitions.*
+*The modern hero section featuring the latest `Nike collection` with smooth interactive shoe preview transitions.*
 
 ### 🛒 Product Showcase
 
@@ -67,7 +69,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ### 🏷️ Special Offers
 
 ![Special Offers](./screenshots/SpecialOffers.png)
-*Dedicated promotional section showcasing exclusive deals with responsive call-to-action buttons.*
+*Dedicated `promotional section` showcasing exclusive deals with responsive call-to-action buttons.*
 
 ### 📬 Contact & Newsletter
 
