@@ -47,6 +47,12 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Centralized data management keeps content organized and scalable.
 - Clean Tailwind CSS design system ensures visual consistency throughout the application.
 
+## 📸 Screenshots / Demo
+
+#### Landing
+
+![Landing](/public//screenshot.png)
+
 ## ⚙️ Tech Stack Used
 
 - ⚛️ Frontend Library: React (v18.3.1)
@@ -60,19 +66,13 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - 🚀 Deployment: Vercel
 - 🛠️ Version Control: Git & GitHub
 
-## 📸 Screenshots / Demo
-
-#### Landing
-
-![Landing](/public//screenshot.png)
-
 ## 📋 Quick Start / Prerequisites
 
-Make sure you have the following installed on your machine:
+> Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
 ## 🛠️ Setup & Installation
 
