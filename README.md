@@ -70,9 +70,9 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 > Before u begin, make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/) (Used to clone the repository)
-- [Node.js](https://nodejs.org/en) (Required to run the application)
-- [npm](https://www.npmjs.com/) (Used to install the project dependencies)
+- To clone the repository: [Git](https://git-scm.com/)
+- To run the application: [Node.js](https://nodejs.org/en)
+- To install project dependencies: [npm](https://www.npmjs.com/)
 
 ## 🛠️ Setup & Installation
 
