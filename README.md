@@ -100,4 +100,4 @@ npm run dev
 http://localhost:5173
 ```
 
-Open the URL in your browser and explore the premium `Nike landing page`. ☄️
+Open the URL in your browser and explore the premium `Nike-inspired` landing page. ☄️
