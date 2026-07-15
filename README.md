@@ -1,15 +1,15 @@
 # 👟 Nike Web App
 
-[![React](https://img.shields.io/badge/React-green?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-green?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-green?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-green?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![PostCSS](https://img.shields.io/badge/PostCSS-green?style=for-the-badge&logo=postcss&logoColor=white)](https://postcss.org/)
-[![ESLint](https://img.shields.io/badge/ESLint-green?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Vercel](https://img.shields.io/badge/Vercel-green?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![React](https://img.shields.io/badge/React-green?logo=react&logoColor=white)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-green?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-green?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-green?logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-green?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![PostCSS](https://img.shields.io/badge/PostCSS-green?logo=postcss&logoColor=white)](https://postcss.org/)
+[![ESLint](https://img.shields.io/badge/ESLint-green?logo=eslint&logoColor=white)](https://eslint.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-green?logo=vercel&logoColor=white)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-green?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-green?logo=github&logoColor=white)](https://github.com/)
 
 Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web application built with **React** and **Vite**. This project focuses on creating a fast, visually appealing, and mobile-friendly user experience while showcasing modern frontend development practices, reusable components, and clean UI design.
 
