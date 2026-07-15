@@ -7,12 +7,22 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const Hero = () => {
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 640);
 
   useEffect(() => {
     [bigShoe1, bigShoe2, bigShoe3].forEach((src) => {
       const img = new Image();
       img.src = src;
     });
+
+    const handleResize = () => setIsMobile(window.innerWidth < 640);
+
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+
   }, []);
 
   return (
@@ -52,21 +62,31 @@ const Hero = () => {
       </div>
 
     <div className='relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center'>
+      {isMobile ? (
+        <img
+        src={bigShoeImg}
+        alt="shoe collection"
+        width={610}
+        height={502}
+        className="object-contain relative z-10"
+        />
+      ) : (
       <AnimatePresence mode="wait">
         <motion.img
-          key={bigShoeImg}
-          src={bigShoeImg}
-          alt="shoe collection"
-          width={610}
-          height={502}
-          className="object-contain relative z-10"
-          initial={{ opacity: 0, scale: 0.98 }}
-          animate={{ opacity: 1, scale: 1 }}
-          exit={{ opacity: 0, scale: 1.02 }}
-          transition={{ duration: 0.18, ease: "easeOut" }}
+        key={bigShoeImg}
+        src={bigShoeImg}
+        alt="shoe collection"
+        width={610}
+        height={502}
+        className="object-contain relative z-10"
+        initial={{ opacity: 0, scale: 0.98 }}
+        animate={{ opacity: 1, scale: 1 }}
+        exit={{ opacity: 0, scale: 1.02 }}
+        transition={{ duration: 0.18, ease: "easeOut" }}
         />
-      </AnimatePresence>
-
+        </AnimatePresence>
+      )}
+      
         <div className='flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6'>
           {shoes.map((image, index) => (
           <div key={index}>
