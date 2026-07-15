@@ -67,8 +67,8 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center max-sm:gap-4'>
-        <div className='max-sm:flex max-sm:flex-col max-sm:items-center max-sm:gap-4'>
+      <div className='flex justify-between text-white-400 mt-24 max-sm:flex-col max-sm:items-center max-sm:gap-2'>
+        <div className='max-sm:flex max-sm:flex-col max-sm:items-center max-sm:gap-2'>
         <div className='flex flex-1 justify-start items-center gap-2 font-montserrat'>
           <img
             src={copyrightSign}
