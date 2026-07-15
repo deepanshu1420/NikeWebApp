@@ -22,7 +22,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Smooth slide-in animations, backdrop overlay, and animated hover underline effects.
 - Optimized for seamless navigation across desktop, tablet, and mobile devices.
 
-### 👟 Interactive Hero Experience
+### 🔥 Interactive Hero Experience
 - Real-time featured shoe preview with instant image switching.
 - Dynamic React state updates without page reloads for a smooth experience.
 - Clean layered layout with responsive statistics and engaging visuals.
@@ -42,7 +42,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Modern newsletter subscription form with a mobile-friendly layout.
 - Designed to encourage engagement while maintaining a clean interface.
 
-### ⚙️ Modern React Architecture
+### 🏗️ Modern React Architecture
 - Single Page Application (SPA) built with reusable React components.
 - Centralized data management keeps content organized and scalable.
 - Clean Tailwind CSS design system ensures visual consistency throughout the application.
@@ -60,7 +60,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - 🚀 Deployment: Vercel
 - 🛠️ Version Control: Git & GitHub
 
-## Screenshots / Demo
+## 📸 Screenshots / Demo
 
 #### Landing
 
@@ -74,7 +74,7 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-## ⚙️ Setup & Installation
+## 🛠️ Setup & Installation
 
 Follow these steps to set up the project locally on your machine:
 
