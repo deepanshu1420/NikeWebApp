@@ -23,8 +23,8 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Optimized for seamless navigation across desktop, tablet, and mobile devices.
 
 ### 🔥 Interactive Hero Experience
-- Real-time featured shoe preview with instant image switching.
-- Dynamic React state updates without page reloads for a smooth experience.
+- Real-time featured shoe preview with smooth Framer Motion transitions and preloaded images.
+- Dynamic React state updates without page reloads for a seamless experience.
 - Clean layered layout with responsive statistics and engaging visuals.
 
 ### 🛍️ Scalable Product Showcase
