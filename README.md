@@ -79,7 +79,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ### 📱 Responsive Design
 
 ![Responsive Design](./screenshots/Responsive.png)
-*Optimized mobile-first experience delivering a seamless interface across all screen sizes.*
+*`Optimized mobile-first` experience delivering a seamless interface across all screen sizes.*
 
 ## ⚙️ Tech Stack Used
 
