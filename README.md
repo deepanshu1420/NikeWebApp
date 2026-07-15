@@ -19,7 +19,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
 
-👉 **Understanding Tailwind Internals**: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
+👉 **Understanding Tailwind Internals**: Dive into Tailwind's inner workings, gaining insights into its structure and optimizations.
 
 👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
 
