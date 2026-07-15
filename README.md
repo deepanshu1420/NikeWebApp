@@ -8,8 +8,8 @@
 [![PostCSS](https://img.shields.io/badge/PostCSS-8.5.6-DD3A0A?logo=postcss&logoColor=white)](https://postcss.org/)
 [![ESLint](https://img.shields.io/badge/ESLint-9.32.0-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
 [![Reusable Components](https://img.shields.io/badge/Reusable_Components-React-61DAFB?logo=react&logoColor=white)](https://react.dev/learn/thinking-in-react)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-EC4899?logo=vercel&logoColor=white)](https://vercel.com/)
 [![Git](https://img.shields.io/badge/Git-2.x-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-EC4899?logo=vercel&logoColor=white)](https://vercel.com/)
 
 Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web application built with **React** and **Vite**. This project focuses on creating a fast, visually appealing, and mobile-friendly user experience while showcasing modern frontend development practices, reusable components, and clean UI design.
 
