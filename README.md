@@ -23,11 +23,11 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
 
-👉 **Theming**:Explore techniques to add different themes to your website using Tailwind CSS.
+👉 **Theming**: Explore techniques to add different themes to the application using Tailwind CSS.
 
-👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
+👉 **JavaScript-like Functionality**: Discover how Tailwind CSS can achieve tasks that typically require JavaScript code.
 
-### while building a high-performance Nike website for fast load times:
+### while building a high-performance Nike Gallery for fast load times:
 
 👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
 
