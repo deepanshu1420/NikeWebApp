@@ -76,27 +76,36 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 ## 🛠️ Setup & Installation
 
-Follow these steps to set up the project locally on your machine:
+> To set up and run the application locally, follow the steps below:
 
-**1️⃣ Clone the Repository**
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/deepanshu1420/Nike-Website-NextJS.git
-cd Nike-Website-NextJS
+git clone https://github.com/deepanshu1420/NikeWebApp.git
 ```
 
-**2️⃣ Install the project dependencies using npm**
+### 2️⃣ Navigate to the project directory
+
+```bash
+cd NikeWebApp
+```
+
+### 3️⃣ Install the required dependencies
 
 ```bash
 npm install
 ```
 
-**3️⃣ Start the development server**
+### 4️⃣ Start the development server
 
 ```bash
 npm run dev
 ```
 
+✅ **That's it!** The project should now be running locally at:
 
+```text
+http://localhost:5173
+```
 
-
+Open the URL in your browser and explore the responsive `Nike landing page`. ☄️
