@@ -3,9 +3,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-%3C%3E)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%3C%3E)](https://tailwindcss.com/)
 
-Welcome to Nike Website NextJS 👟 - a modern and responsive Nike-inspired web application built with Next.js and Tailwind CSS. The project focuses on creating a fast, visually appealing and mobile-friendly user experience while showcasing modern frontend development practices, reusable components and clean UI design.
+Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web application built with **React** and **Vite**. This project focuses on creating a fast, visually appealing, and mobile-friendly user experience while showcasing modern frontend development practices, reusable components, and clean UI design.
 
-Check out the live demo of the project [here](https://nikee-nextjs.vercel.app/).
+**🌐 Experience the Ultimate Sneaker Showcase :** [Live Demo](https://nikegallery.vercel.app/)
 
 ## 🔋 Features / Highlights 
 
@@ -41,13 +41,16 @@ and many more, including code architecture and reusability!
 
 ## ⚙️ Tech Stack Used
 
-- ⚛️ Full-Stack Framework: Next.js  
-- 🎨 Styling Framework: Tailwind CSS  
-- 🟨 Programming Language: JavaScript (ES6+)  
-- 🌐 Markup Language: HTML5  
-- 📱 Responsive Design: Mobile-First Design  
-- 🚀 Deployment: Vercel  
-- 🛠️ Version Control: Git & GitHub  
+- ⚛️ Frontend Library: React (v18.3.1)
+- ⚡ Build Tool: Vite (v5.4.10)
+- 🎨 Styling Framework: Tailwind CSS (v3.4.14)
+- 🟨 Programming Language: JavaScript (ES6+)
+- 🌐 Markup Language: HTML5
+- 🎯 CSS Processing: PostCSS & Autoprefixer
+- 📱 Responsive Design: Mobile-First Design
+- 🧹 Code Quality: ESLint
+- 🚀 Deployment: Vercel
+- 🛠️ Version Control: Git & GitHub
 
 ## Screenshots / Demo
 
