@@ -27,7 +27,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 👉 **JavaScript-like Functionality**: Discover how Tailwind CSS can achieve tasks that typically require JavaScript code.
 
-### while building a high-performance Nike Gallery for fast load times:
+### While building a high-performance Nike Gallery for fast load times:
 
 👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
 
@@ -43,9 +43,9 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 👉 **Footer**: A comprehensive footer section containing various links
 
-👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
+👉 **Mobile Responsive**: The entire app is responsive across all devices, showcasing Tailwind's mobile-friendly capabilities.
 
-and many more, including code architecture and reusability!
+> and many more, including code architecture and reusability!
 
 ## ⚙️ Tech Stack Used
 
