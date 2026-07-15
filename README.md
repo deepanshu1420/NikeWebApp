@@ -18,7 +18,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ## 🔋 Features / Highlights
 
 ### 🧭 Responsive Navigation
-- Fully responsive navigation bar with a modern glassmorphic mobile drawer.
+- Fully responsive navigation bar with a modern `glassmorphic mobile drawer`.
 - Smooth slide-in animations, backdrop overlay, and animated hover underline effects.
 - Optimized for seamless navigation across desktop, tablet, and mobile devices.
 
@@ -29,7 +29,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 ### 🛍️ Scalable Product Showcase
 - Responsive product grid that adapts beautifully to every screen size.
-- Reusable product cards powered by centralized data mapping.
+- Reusable product cards powered by `centralized data mapping`.
 - Easily expandable without modifying UI components.
 
 ### 🏆 Engaging Brand Sections
