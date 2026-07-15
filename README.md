@@ -49,9 +49,35 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 
 ## 📸 Screenshots / Demo
 
-#### Landing
+### 🏠 Landing Page
 
-![Landing](/public//screenshot.png)
+![Landing Page](./screenshots/LandingPage.png)
+*The modern hero section featuring the latest Nike collection with smooth interactive shoe preview transitions.*
+
+### 🛒 Product Showcase
+
+![Product Section](./screenshots/ProductSection.png)
+*Browse popular Nike products presented in a fully responsive and reusable product grid layout.*
+
+### 🏆 About Section
+
+![About](./screenshots/About.png)
+*Highlighting Nike's commitment to premium quality, comfort, and innovative craftsmanship.*
+
+### 🏷️ Special Offers
+
+![Special Offers](./screenshots/SpecialOffers.png)
+*Dedicated promotional section showcasing exclusive deals with responsive call-to-action buttons.*
+
+### 📬 Contact & Newsletter
+
+![Contact Us](./screenshots/ContactUs.png)
+*Newsletter subscription section encouraging users to stay updated with the latest releases and offers.*
+
+### 📱 Responsive Design
+
+![Responsive Design](./screenshots/Responsive.png)
+*Optimized mobile-first experience delivering a seamless interface across all screen sizes.*
 
 ## ⚙️ Tech Stack Used
 
