@@ -23,7 +23,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Optimized for seamless navigation across desktop, tablet, and mobile devices.
 
 ### 🔥 Interactive Hero Experience
-- Real-time featured shoe preview with smooth Framer Motion transitions and preloaded images.
+- Real-time featured shoe preview with smooth `Framer Motion transitions` and preloaded images.
 - Dynamic React state updates without page reloads for a seamless experience.
 - Clean layered layout with responsive statistics and engaging visuals.
 
@@ -43,7 +43,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - Designed to encourage engagement while maintaining a clean interface.
 
 ### 🏗️ Modern React Architecture
-- Single Page Application (SPA) built with reusable React components.
+- `Single Page Application (SPA)` built with reusable React components.
 - Centralized data management keeps content organized and scalable.
 - Clean Tailwind CSS design system ensures visual consistency throughout the application.
 
@@ -56,6 +56,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ## ⚙️ Tech Stack Used
 
 - ⚛️ Frontend Library: React (v18.3.1)
+- 🎬 Animation Library: Framer Motion (v12.42.2)
 - ⚡ Build Tool: Vite (v5.4.10)
 - 🎨 Styling Framework: Tailwind CSS (v3.4.14)
 - 🟨 Programming Language: JavaScript (ES6+)
@@ -83,6 +84,8 @@ cd NikeWebApp
 ```
 
 ### 3️⃣ Install the required dependencies
+
+> Make sure you have `Node.js` installed, then run:
 
 ```bash
 npm install
