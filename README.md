@@ -92,8 +92,8 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 - 🎯 CSS Processing: PostCSS & Autoprefixer
 - 📱 Responsive Design: Mobile-First Design
 - 🧹 Code Quality: ESLint
-- 🚀 Deployment: Vercel
-- 🛠️ Version Control: Git & GitHub
+- 🔗 Deployment: Vercel
+- 🌿 Version Control: Git & GitHub
 
 ## 🛠️ Setup & Installation
 
