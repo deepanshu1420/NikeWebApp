@@ -59,7 +59,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ### 🛒 Product Showcase
 
 ![Product Section](./screenshots/ProductSection.png)
-*Browse popular Nike products presented in a fully responsive and reusable product grid layout.*
+*Browse popular Nike products presented in a fully responsive and `reusable product grid layout`.*
 
 ### 🏆 About Section
 
