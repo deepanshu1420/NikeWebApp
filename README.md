@@ -74,7 +74,7 @@ Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web appli
 ### 📬 Contact & Newsletter
 
 ![Contact Us](./screenshots/ContactUs.png)
-*Newsletter subscription section encouraging users to stay updated with the latest releases and offers.*
+*`Newsletter subscription section` encouraging users to stay updated with the latest releases and offers.*
 
 ### 📱 Responsive Design
 
