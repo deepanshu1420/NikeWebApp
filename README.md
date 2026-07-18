@@ -13,7 +13,7 @@
 
 Welcome to `Nike Gallery 👟` - a modern and responsive nike-inspired web application built with **React** and **Vite**. This project focuses on creating a fast, visually appealing, and mobile-friendly user experience while showcasing modern frontend development practices, reusable components, and clean UI design.
 
-**🌐 Experience the Ultimate Sneaker Showcase :** [Live Demo](https://nikegallery.vercel.app/)
+**🌐 Experience the Ultimate Sneaker Showcase :** [Live Demo](https://nikewebclone.vercel.app/)
 
 ## 🔋 Features / Highlights
 
